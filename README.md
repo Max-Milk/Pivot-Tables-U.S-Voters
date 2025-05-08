@@ -7,7 +7,7 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
 
 - `U.S-Voter-Data.xlsx`: Raw dataset used for Pivot Table analysis.
 - `images/`: Folder containing screenshots of Pivot Table results.
-  - `Q1.png` to `Q5.png`: Corresponding visuals for each analysis question.
+  - `Q1.PNG` to `Q5.PNG`: Corresponding visuals for each analysis question.
 
 ## 🔧 Tools & Techniques
 
@@ -34,7 +34,7 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
 - **Hawaii**
 - **West Virginia**
 
-![Q1](images/Q1.png)
+![Q1](images/Q1.PNG)
 
 ---
 
@@ -49,7 +49,7 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
 - % of CA's total confirmed voters: **21.56%**
 - % of total U.S. confirmed voters: **2.18%**
 
-![Q2](images/Q2.png)
+![Q2](images/Q2.PNG)
 
 ---
 
@@ -64,7 +64,7 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
   - **35.63%** of total **Citizen Population**
   - **39.12%** of total **Confirmed Voters**
 
-![Q3](images/Q3.png)
+![Q3](images/Q3.PNG)
 
 ---
 
@@ -75,9 +75,9 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
 
 📊 **Results**:
 - 🏆 Highest Overall Turnout: **Colorado** – **94.69%**
-  ![Q4.1](images/Q4.1.png)
+  ![Q4.1](images/Q4.1.PNG)
 - 🧑‍🎓 Highest (18–24 age group): **Wisconsin** – **93.18%**
-  ![Q4.2](images/Q4.2.png)
+  ![Q4.2](images/Q4.2.PNG)
 
 ---
 
@@ -94,7 +94,7 @@ This project showcases how **PivotTables in Microsoft Excel** can be used to exp
 
 These states represent key opportunities to **engage younger voters** and close the turnout gap.
 
-![Q5](images/Q5.png)
+![Q5](images/Q5.PNG)
 
 ---
 
@@ -114,6 +114,7 @@ For questions, feedback, or collaboration opportunities:
 - **🔗 LinkedIn**: [Max Nguyen Hoang Minh](https://www.linkedin.com/in/max-nguyen-hoang-minh)
 
 ---
+
 
 
 
